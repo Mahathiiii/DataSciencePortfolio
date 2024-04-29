@@ -1,6 +1,6 @@
 title: Mahathi Mahalakshmi Satish
 logo: /assets/img/Profile Image.jpg
 description: Post Graduate Student persuing Machine Learning and Artificial Intelligence.
-show_downloads: false
+show_downloads: 
 google_analytics:
 theme: jekyll-theme-minimal
